@@ -4,10 +4,13 @@ const ProfilePage = async ({ params, searchParams }: ParamsWithSearch) => {
     const { id } = await params;
 
     return (
-        <div className="text-2xl font-karla">
-            <Header subHeader="Zach.Cortez@icloud.com" title="Zach Cortez" userImg="/assets/images/dummy.jpg" />
+        <div className="wrapper page">
+            <Header subHeader="Zach.Cortez@icloud.com"
+                    title="Zach Cortez | SaturnBay"
+                    userImg="/assets/images/dummy.jpg" />
 
-            USER ID: {id}</div>
+            <h1 className="text-2xl font-karla">USER ID: {id}</h1>
+        </div>
     );
 };
 
