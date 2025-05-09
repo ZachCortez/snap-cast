@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <img src="https://i.ibb.co/hJfP3WNh/Screenshot-2025-05-09-120004.png" >
+    <img src="https://i.ibb.co/hJfP3WNh/Screenshot-2025-05-09-120004.png" border=0 >
   <br />
 
   <div>
