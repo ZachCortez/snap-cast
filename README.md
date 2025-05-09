@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://ibb.co/39zDgNbG"><img src="https://i.ibb.co/hJfP3WNh/Screenshot-2025-05-09-120004.png" alt="Screenshot-2025-05-09-120004" border="0"></a>
+    <img src="https://i.ibb.co/hJfP3WNh/Screenshot-2025-05-09-120004.png" >
   <br />
 
   <div>
@@ -8,13 +8,8 @@
     <img src="https://img.shields.io/badge/Bunny.net-F47326?style=for-the-badge&logo=bunnyvideo&logoColor=white">
     <img src="https://img.shields.io/badge/-Tailwind-00BCFF?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   </div>
-
-<h3 align="center">Full Stack Screen Recording & Video Sharing Platform</h3>
-
-   <div align="center">
-     
-    
 </div>
+<h3 align="center">Full Stack Screen Recording & Video Sharing Platform</h3>
 
 ## 📋 <a name="table">Table of Contents</a>
 
