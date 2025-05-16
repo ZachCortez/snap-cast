@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://ZachCortez-s-workspace-3j72g8.us-east-1.xata.sh/db/snapcast_db",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
